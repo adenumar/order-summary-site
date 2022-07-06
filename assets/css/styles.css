@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:display=swap');
+
+body{
+    background-color: hsl(225, 100%, 94%);
+}
+
+.card-container  {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 550px;
+    width: 350px;
+    background: #f2f2f2;
+    overflow: hidden;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .order-card {
+    position: absolute;
+    top: 0px;
+    transform: translatey(-50%);
+    text-align: justify;
+    color: black;
+    padding: 30px;
+    font-family: 'Merriweather', serif;
+  }
+
+  .order-img{
+    border-radius: 20px 20px 0px 0px;
+    position: absolute;
+    top: 140px;
+    left: 0px;
+    width: 350px;
+  }
+
+  h1{
+      color: #1e2a50;
+      position: relative;
+      top: 300px;
+      left: 60px;
+      font-family: 'Red Hat Display', sans-serif;
+      font-weight: 900px;
+      font-size: 25px;
+      text-emphasis: bold;
+  }
+
+  p{
+    color: #969db7;
+    position: relative;
+    top: 300px;
+    left: 0px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .plan-content{
+    background-color: hsl(226, 100%, 90%);
+    position: relative;
+    top: 290px;
+    left: 0px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    text-align: center; 
+  }
+
+  .music-img{
+      position: absolute;
+      left: 15px;
+      top: 25px;
+      width: 12.5%;
+  }
+
+  h4{
+    position: absolute;
+    left: 70px;
+    top: 0px;
+  }
+
+  .amount{
+    position: absolute;
+    left: 70px;
+    top: 20px;
+  }
+
+  .change-link{
+      position: absolute;
+      left: 200px;
+      top: 30px;
+      font-size: 14px;
+  }
+
+  .proceed-btn{
+    position: relative;
+    top: 380px;
+    left: 0px;
+    width: 300px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px;
+    text-align: center; 
+    color: #ffffff;
+    padding: 0.7em 1.7em;
+    border-radius: 0.5em;
+    background: #382ae1;
+    border: 1px solid #e8e8e8;
+}
+
+  .cancel-btn{
+    position: relative;
+    top: 390px;
+    left: 0px;
+    width: 300px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 14px;
+    text-align: center; 
+    color: #949494;
+    padding: 0.7em 1.7em;
+    border-radius: 0.5em;
+    background: #392ae100;
+    border: 1px solid #e8e8e800;
+  }
+
+  .attribution{
+      position: relative;
+      top: 600px;
+      font-family: 'Red Hat Display', sans-serif;
+  }
