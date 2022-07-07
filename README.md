@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/massive-coder/order-summary-site)
-- Live Site URL: [Add live site URL here](https://massive-coder.github.io/order-summary-site/)
+- Solution URL: (https://github.com/massive-coder/order-summary-site)
+- Live Site URL: (https://massive-coder.github.io/order-summary-site/)
 
 ## My process
 
