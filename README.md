@@ -56,7 +56,7 @@ We can get a huge knowledge to work with projects and we get a great experience 
 
 - Name - [Umar Naushad]
 - Frontend Mentor - [@umarnaushad](https://www.frontendmentor.io/profile/umarnaushad)
-- Twitter - [@umar_naushad](https://twitter.com/umar_naushad)
+- Twitter - [@umar_naushad]([https://twitter.com/massive_coder])
 
 
 ## Acknowledgments
